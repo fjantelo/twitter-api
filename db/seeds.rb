@@ -1,5 +1,5 @@
-# User.create(handle: "@fjantelo")
-# User.create(handle: "@elonmusk")
+# User.create(handle: "@fjantelo", first_name: "Fernando", last_name: "Antelo")
+# User.create(handle: "@elonmusk", first_name: "Elon", last_name: "Musk")
 # Tweet.create(text: "What is going on in the world today?", user_id: 1)
 # Tweet.create(text: "Hello all!", user_id: 1)
 # Tweet.create(text: "Crazy nonsense", user_id: 2)
